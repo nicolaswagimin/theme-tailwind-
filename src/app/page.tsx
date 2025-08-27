@@ -36,7 +36,7 @@ const Page = () => {
         {/* Accent Color */}
         <div>
           <p className="text-sm font-medium text-gray-700 mb-2">Accent color</p>
-          <p className="text-xs text-gray-500 mb-3">Pick your platform's main color</p>
+          <p className="text-xs text-gray-500 mb-3">Pick your platform&rsquo;s main color</p>
           <div className="flex space-x-3">
             <div className="w-5 h-5 rounded-full bg-red-400 border-2 border-white shadow"></div>
             <div className="w-5 h-5 rounded-full bg-orange-400"></div>
